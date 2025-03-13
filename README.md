@@ -1,6 +1,10 @@
 <h1 align="center">Hello 👋, I'm (T.M.) Talmage Mark Carillo</h1>
-My friend's call me T.M. or Mark. I recently graduated from UC Berkeley in December 2024 with a BA in Data Science. I am passionate about machine learning, data analytics, data engineering, and predictive modeling. I started my journey at Diablo Valley College studying Mathematics and Economics before transferring to UC Berkeley, where I dexplored topics like natural language processing, data engineering, and probability theory which led to my decision to switch into studying Data Science. I currently work as a Student Equipment Manager for Cal Football, along with two former NFL equipment managers, helping the staff with team operations and ensuring everything runs smoothly for the players and coaches. In my free time, I am learning Microsoft Power BI through DataCamp and teaching myself Linux as I want to get into the field of Data Analytics or Data Engineering. Once I complete this, I will move on towards Spark / Apache.
-
+<p align="center">
+    My friends call me T.M. or Mark. I recently graduated from UC Berkeley in December 2024 with a BA in Data Science. I am passionate about machine learning, data analytics, data engineering, and predictive modeling. I started my journey at Diablo Valley College studying Mathematics and Economics before transferring to UC Berkeley, where I explored topics like natural language processing, data engineering, and probability theory which led to my decision to switch into studying Data Science.
+</p>
+<p align="center">
+    I currently work as a Student Equipment Manager for Cal Football, along with two former NFL equipment managers, helping the staff with team operations and ensuring everything runs smoothly for the players and coaches. In my free time, I am learning Microsoft Power BI through DataCamp and teaching myself Linux as I want to get into the field of Data Analytics or Data Engineering. Once I complete this, I will move on towards Spark / Apache.
+</p>
 - 🌱 I’m currently learning **Microsoft Power BI**, **Linux**
 
 - 📫 How to reach me **tmcarillo@berkeley.edu**
