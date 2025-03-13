@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm (T.M.) Talmage Mark Carillo</h1>
 <h3 align="center">My friend's call me T.M. or Mark. I recently graduated from UC Berkeley in December 2024 with a BA in Data Science. I am passionate about machine learning, data analytics, data engineering, and predictive modeling. I started my journey at Diablo Valley College studying Mathematics and Economics before transferring to UC Berkeley, where I explored topics like natural language processing, data engineering, and probability theory. In my free time, I work as a Student Equipment Manager for Cal Football, gaining insights from former NFL equipment managers and ensuring everything runs smoothly for the team.</h3>
 
-- 🌱 I’m currently learning **Microsoft Power BI**
+- 🌱 I’m currently learning **Microsoft Power BI**, **Linux**
 
 - 📫 How to reach me **tmcarillo@berkeley.edu**
 
